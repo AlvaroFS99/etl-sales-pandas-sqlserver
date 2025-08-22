@@ -182,6 +182,7 @@ python main.py
 * **Empty outputs** → verify `/csv` contains files and filenames allow valid `Audit_Date` parsing.
 
 ---
+⚠️ All datasets included are synthetic and for educational purposes only.
 
 **Author**: Álvaro F. — Exam project with **Pandas + NumPy + SQLAlchemy**.
 
@@ -198,3 +199,5 @@ Este proyecto implementa un flujo ETL sencillo con **Pandas y NumPy**:
 * Exporta resultados a CSV y a tablas en SQL Server.
 
 Incluye **logging**, modularización en `etl_utils.py`, y está preparado para ejecutarse directamente con `python main.py`.
+
+⚠️ All datasets included are synthetic and for educational purposes only.
