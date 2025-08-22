@@ -1,0 +1,30 @@
+# --- Python cache & environment ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.db
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+
+# Results (keep folder but ignore contents)
+Results/*
+!Results/.gitkeep
+
+# CSV inputs (if you don’t want to share raw data)
+csv/*
+!csv/example.csv
